@@ -15,6 +15,7 @@ We used Kaggle's subset stored in the file metadata.csv. The data is organised i
 * Date of publication
 
 Goal 🎯
+
 Performing a in-depth Analysis on research publications and conducting text information retrieval and text mining techniques along with LDA (Latent Dirichlet Allocation) and Text Clustering, to find answers to questions like:
 
 1. What is the distribution of journals per source?
