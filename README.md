@@ -1,6 +1,6 @@
 # NLP-with-LDA-and-Text-Clustering
 
-Introduction¶
+### Introduction¶
 The current pandemic has triggered an unprecedented amount of published medical research with the aim to find treatments and vaccinations as soon as possible. This has also led to efforts to gather these research publications and conduct text information retrieval and text mining on them. We will use a fragment of the most widely used resource of this kind: CORD-19. This resource has been made available via several outlets, probably the most popular of which is Kaggle:
 
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
@@ -14,7 +14,7 @@ We used Kaggle's subset stored in the file metadata.csv. The data is organised i
 * Abstract
 * Date of publication
 
-Goal 🎯
+### Goal 🎯
 
 Performing a in-depth Analysis on research publications and conducting text information retrieval and text mining techniques along with LDA (Latent Dirichlet Allocation) and Text Clustering, to find answers to questions like:
 
