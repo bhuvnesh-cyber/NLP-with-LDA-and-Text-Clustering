@@ -1,6 +1,6 @@
 # NLP-with-LDA-and-Text-Clustering
 
-### Introduction¶
+## Introduction¶
 The current pandemic has triggered an unprecedented amount of published medical research with the aim to find treatments and vaccinations as soon as possible. This has also led to efforts to gather these research publications and conduct text information retrieval and text mining on them. We will use a fragment of the most widely used resource of this kind: CORD-19. This resource has been made available via several outlets, probably the most popular of which is Kaggle:
 
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
@@ -14,7 +14,7 @@ We used Kaggle's subset stored in the file metadata.csv. The data is organised i
 * Abstract
 * Date of publication
 
-### Goal 🎯
+## Goal 🎯
 
 Performing a in-depth Analysis on research publications and conducting text information retrieval and text mining techniques along with LDA (Latent Dirichlet Allocation) and Text Clustering, to find answers to questions like:
 
@@ -35,10 +35,10 @@ Performing a in-depth Analysis on research publications and conducting text info
 ## Latent Dirichlet Allocation (LDA)
 Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents. Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions.
 
-# Opinion
+## Opinion
 This project was challenging, because it involved advanced NLP techniques. I had to google numerous resources to gain intuition and understanding of how does it work.
 
-# Working enviroment
+## Working enviroment
 Google Colab
   - Keras 2.1.6
   - Python 3
