@@ -50,7 +50,9 @@ This project was challenging, because it involved advanced NLP techniques. I had
 
 ## Working enviroment
 Google Colab
-  - Keras 2.1.6
+  - Keras 
   - Python 3
-  - Opencv 3.4.3
-  - sklearn 0.19.2
+  - sklearn
+  - scipy
+  - nltk
+  - gensim
